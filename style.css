@@ -54,11 +54,14 @@ text-align: center;
    
 }
 .inline-box img{
-    width: 80%;
-    margin: 2%;
-    padding: 5%;
+    width: 90%;
+    margin: 2% 2%;
+    padding: 2% 2%;
     border-radius: 20px;
 
+}
+.contract-payment{
+    background-image: url(images/background3.jpg);
 }
 .payment-area{
     padding-left: 20%;
@@ -70,6 +73,7 @@ text-align: center;
 .contract{
     padding-left: 30%;
 }
+
 .black-footer{
    height: 150px;
     text-align: center;
